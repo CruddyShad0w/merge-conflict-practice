@@ -23,7 +23,8 @@ have to *resolve* before you can continue your work.
 You should see something like:
 ![](/img/recipe.png)
 5. Add two or three other animals to the list, right below "5. Lion"
-
+6. Add and commit your changes, but don't push!
+7. After you have added and committed, 
 
 
 
