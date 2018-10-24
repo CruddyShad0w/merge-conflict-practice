@@ -5,6 +5,6 @@
 3. Fish
 4. Tiger
 5. Lion
-6. Bear
-7. Mouse
+6. Chipmunk
+7. Deer
 8. Squirrel
